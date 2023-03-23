@@ -12,7 +12,7 @@ namespace planetas
         {
             double marte = 3.711;
             double jupiter = 24.79;
-            Console.WriteLine("Cuanto Pesas En Otro Planeta?#cacorro");
+            Console.WriteLine("Cuanto Pesas En Otro Planeta?");
             Console.WriteLine("Inserta Tu Peso Terrestre Actual");
             string peso;
             peso= Console.ReadLine();
